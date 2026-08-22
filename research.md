@@ -8,33 +8,26 @@ permalink: /research.html
 
 # Research
 
-LASS studies how structures can harvest ambient energy, perceive their physical state, and respond intelligently. Our work combines structural mechanics, smart materials, power electronics, sensing, control, and artificial intelligence.
+LASS develops autonomous structural systems that integrate ambient energy harvesting, multiphysics dynamics, sensing, and control. Our research is organized around three closely connected directions, spanning power electronic interfaces, electromechanical dynamics, and smart structures and systems.
 
-## Integrated Energy Harvesting and Control
+## Power Electronics Interface Circuits
 
-We develop electromechanical and power-electronic approaches that combine energy conversion with vibration control. A particular focus is piezoelectric systems and interface circuits that support multiple functions within the same hardware.
+We develop power-electronic interface circuits that enable energy harvesting, energy management, information processing and semi-active or passive control within the same hardware. Our work includes multiple energy conversion interface circuit, energy management modules, and self-powered control strategies that recycle harvested energy from multiple renewable energy sources, providing an efficient energy-conversion layer for autonomous sensing nodes.
 
-**Keywords:** piezoelectric energy harvesting · interface circuits · electromechanical coupling · vibration control
+![Power-electronic interface circuits for load-adaptive energy harvesting and self-powered control.]({{ '/assets/research/power-electronics-interface-circuits.png' | relative_url }}){: .research-figure }
 
-## Distributed Intelligent Sensing
+## Electromechanically Coupled Dynamics
 
-We investigate self-powered and low-power sensing technologies for distributed structural monitoring. The goal is to extract useful information about dynamics, condition, and damage while reducing dependence on batteries and wired infrastructure.
+We establish coupled electromechanical dynamics models that connect mechanics and electronics. Through efficient modelling methods and tunable dynamics, the electromechanically coupled systems can be can be exploited and controlled via modern power electronics and on-chip algorithms in a batter-free manner.
 
-**Keywords:** structural health monitoring · self-powered sensing · sensor networks · signal interpretation
+![Electromechanically coupled dynamics and impedance-based modeling.]({{ '/assets/research/electromechanical-coupled-dynamics.png' | relative_url }}){: .research-figure }
 
-## Autonomous Structures and Systems
+## Smart Structures and Systems
 
-We study structures that integrate harvesting, sensing, learning, and control. These systems use physical intelligence and AI to support autonomous operation, adaptive response, and long-term deployment.
+We design artifical materials to achieve energy and wave guiding functionalities.  By embedding electromechanical transducers and power electronics, these platforms move toward self-powered structural IoT nodes capable of autonomous energy supply, physical-state perception, and adaptive operation.
 
-**Keywords:** self-powered AI · adaptive structures · autonomous systems · intelligent metamaterials
-
-## Metamaterials and Nonlinear Dynamics
-
-We design graded, damped, and nonlinear metamaterials for broadband vibration attenuation, energy localization, energy harvesting, and self-powered sensing.
-
-**Keywords:** mechanical metamaterials · nonlinear bandgaps · wave attenuation · modal dissipation
+![Smart structures and systems based on graded, nonlinear, and edge-mode metamaterials.]({{ '/assets/research/smart-structures-and-systems.png' | relative_url }}){: .research-figure }
 
 ## Collaboration
 
-We welcome academic and industrial collaborations in smart infrastructure, marine systems, adaptive materials, low-power sensing, and intelligent machines. Please contact [baozhao@bit.edu.cn](mailto:baozhao@bit.edu.cn).
-
+We welcome academic and industrial collaborations in smart infrastructures, marine systems, adaptive materials, self-power sensing, and intelligent machines. Please contact [baozhao@bit.edu.cn](mailto:baozhao@bit.edu.cn).

@@ -116,6 +116,11 @@ li { margin-bottom: .2rem; }
 .research-topic { margin-bottom: 1.1rem; }
 .research-topic h2 { margin-top: 1.15rem; }
 .keywords { color: #444; font-size: .92rem; }
+.research-figure {
+  display: block;
+  width: 100%;
+  margin: .5rem 0 1.2rem;
+}
 
 .publication-list { margin: .5rem 0; padding-left: 1.5rem; }
 .publication-list li { margin: 0 0 .8rem; padding-left: .15rem; }
