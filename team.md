@@ -17,19 +17,21 @@ permalink: /team.html
 Tenure-track Professor and PhD Supervisor  
 Division of Marine Science & Technology
 
-Professor Zhao works on energy harvesting, nonlinear metamaterials, structural sensing, and self-powered intelligent systems.
-
 [[Google Scholar](https://scholar.google.com.hk/citations?user=AsIkeZAAAAAJ&hl=en)] &nbsp; [[Email](mailto:baozhao@bit.edu.cn)]
 </div>
 </div>
 
-## Join Us
 
-LASS is a new and growing research group. We welcome students and collaborators who are interested in autonomous structures and systems.
+### Lab Members
 
-### Master's and PhD Students
-
-Relevant backgrounds include mechanics, mechanical engineering, electronics, materials, control, sensing, artificial intelligence, and related fields. Please send a short introduction and CV to [baozhao@bit.edu.cn](mailto:baozhao@bit.edu.cn).
+- **Zhengming Liao**, Ph.D. Student (Fall 2026-)
+- **Zesheng Guo**, Ph.D. Student (Fall 2026-)
+- **Binghuan Lei**, M.Eng. Student (Fall 2026-)
+- **Ang Li**, M.Eng. Student (Fall 2026-)
+- **Ziqing Zhang**, M.Eng. Student (Fall 2026-)
+- **Hanqing Liu**, M.Eng. Student (Fall 2026-)
+- **Junhong He**, M.Eng. Student (Fall 2026-)
+- **Jingyang Xie**, M.Eng. Student (Fall 2026-)
 
 ### Visitors and Collaborators
 
