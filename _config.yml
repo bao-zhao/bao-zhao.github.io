@@ -1,0 +1,12 @@
+title: Lab of Autonomous Structures and Systems
+short_title: LASS
+description: Professor Bao Zhao's research group at Beijing Institute of Technology, Zhuhai.
+url: https://bao-zhao.github.io
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+

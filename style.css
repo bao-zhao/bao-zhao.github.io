@@ -52,15 +52,15 @@ img { border: 0; max-width: 100%; height: auto; }
 .brand-school { display: block; margin-top: 8px; color: #555; font-size: 11px; font-weight: 400; line-height: 1.25; }
 .menu-toggle { display: none; }
 .site-nav { display: block; }
+.site-nav p { margin: .35rem 0; }
 .site-nav a {
   display: block;
   width: max-content;
-  margin: .35rem 0 .35rem auto;
+  margin-left: auto;
   padding: 0 4px 1px 0;
   color: #000080;
   font-size: 16px;
 }
-.site-nav a.current { border-bottom: 1px solid #bbb; }
 .sidebar-contact { margin-top: 2.5rem; color: #555; font-size: 11px; line-height: 1.3; }
 .sidebar-contact p { margin: 0 0 .5rem; }
 
@@ -117,14 +117,8 @@ li { margin-bottom: .2rem; }
 .research-topic h2 { margin-top: 1.15rem; }
 .keywords { color: #444; font-size: .92rem; }
 
-.publication-tools { display: none; }
 .publication-list { margin: .5rem 0; padding-left: 1.5rem; }
-.publication-item { margin: 0 0 .8rem; padding: 0; }
-.publication-item[hidden] { display: none; }
-.publication-item p { margin: 0; }
-.publication-title { font-weight: 700; }
-.publication-authors { color: #333; }
-.publication-venue { font-style: italic; }
+.publication-list li { margin: 0 0 .8rem; padding-left: .15rem; }
 
 .team-card {
   display: grid;
@@ -160,7 +154,8 @@ li { margin-bottom: .2rem; }
   .brand-abbr { display: block; font-size: 16px; }
   .brand-name { display: block; font-size: 15px; }
   .brand-school, .sidebar-contact, .menu-toggle { display: none; }
-  .site-nav a { display: inline-block; width: auto; margin: .2rem 1rem .2rem 0; padding-right: 0; }
+  .site-nav p { display: inline-block; margin: .2rem 1rem .2rem 0; }
+  .site-nav a { display: inline-block; width: auto; margin: 0; padding-right: 0; }
   .content { padding: 1.25rem 0 0; }
   .profile, .team-card { grid-template-columns: 135px minmax(0, 1fr); }
   .profile-photo, .team-card img { width: 125px; }
