@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }} | LASS">
+  <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:image" content="{{ '/assets/bit-logo.png' | absolute_url }}">
+  <meta property="og:type" content="website">
+  <title>{% if page.nav == 'home' %}LASS | Bao Zhao{% else %}{{ page.title }} | LASS{% endif %}</title>
+  <link rel="icon" href="{{ '/assets/bit-logo.ico' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <div class="page">
+    <aside class="sidebar">
+      <div class="sidebar-inner">
+        <a class="brand" href="{{ '/' | relative_url }}">
+          <span class="brand-abbr">LASS</span>
+          <span class="brand-name">Lab of Autonomous<br>Structures and Systems</span>
+          <span class="brand-school">Beijing Institute of Technology<br>Zhuhai, China</span>
+        </a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          {% capture navigation %}{% include navigation.md %}{% endcapture %}
+          {{ navigation | markdownify }}
+        </nav>
+        <div class="sidebar-contact">
+          <p><a href="mailto:baozhao@bit.edu.cn">baozhao@bit.edu.cn</a></p>
+          <p>Zhuhai, Guangdong<br>519088, China</p>
+        </div>
+      </div>
+    </aside>
+
+    <main class="content" id="content">
+      {{ content }}
+      <footer class="footer">© {{ site.time | date: "%Y" }} Bao Zhao and LASS</footer>
+    </main>
+  </div>
+</body>
+</html>
+
