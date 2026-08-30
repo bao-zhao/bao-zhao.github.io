@@ -44,7 +44,8 @@ Our group is broadly interested in autonomous structures and systems. Current re
 
 ## Selected Honors
 
-- National Natural Science Foundation of China — Excellent Young Scientists Fund (Overseas), Principal Investigator, 2026-2029
+- National Natural Science Foundation of China — Excellent Young Scientists Fund (Overseas), Principal Investigator, 2027-2029
+- National Natural Science Foundation of China — Young Scientists Fund (C), Principal Investigator, 2027-2029
 - Research Grants Council Junior Research Fellow Scheme, Principal Investigator, 2025-2026
 - Special Excellence Award, Chinese Government Award for Outstanding Students Abroad, 2023
 
