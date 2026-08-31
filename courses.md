@@ -13,4 +13,3 @@ permalink: /courses.html
 2027 Spring, **Tiny Machine Learning for Embedded Systems** (Instructor)
 
 ### Archived
-

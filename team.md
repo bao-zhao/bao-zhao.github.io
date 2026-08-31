@@ -36,4 +36,3 @@ Division of Marine Science & Technology
 ### Visitors and Collaborators
 
 We welcome research exchanges and collaborations across structural dynamics, power electronics, smart materials, sensing, and intelligent systems.
-
