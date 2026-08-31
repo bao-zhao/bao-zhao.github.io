@@ -8,3 +8,5 @@
 
 [Team]({{ "/team.html" | relative_url }})
 
+[Courses]({{ "/courses.html" | relative_url }})
+

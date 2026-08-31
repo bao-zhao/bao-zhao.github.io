@@ -31,7 +31,7 @@ Division of Marine Science & Technology
 - **Ziqing Zhang**, M.Eng. Student (Fall 2026-)
 - **Hanqing Liu**, M.Eng. Student (Fall 2026-)
 - **Junhong He**, M.Eng. Student (Fall 2026-)
-- **Jingyang Xie**, M.Eng. Student (Fall 2026-)
+- **Jinyang Xie**, M.Eng. Student (Fall 2026-)
 
 ### Visitors and Collaborators
 
