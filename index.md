@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav: home
-description: Lab of Autonomous Structures and Systems, led by Professor Bao Zhao at Beijing Institute of Technology, Zhuhai.
+description: Multifunctional Autonomous Structures and Systems Lab, led by Professor Bao Zhao at Beijing Institute of Technology, Zhuhai.
 permalink: /
 ---
 
@@ -22,11 +22,11 @@ Beijing Institute of Technology
 </div>
 </div>
 
-**<span style="color: red;">Openings:</span>** LASS is recruiting motivated Master's and PhD students interested in the interdisciplinary studies of mechanics, electronics, and cybernetics. Please feel free to get in touch.
+**<span style="color: red;">Openings:</span>** MASS is recruiting motivated Master's and PhD students interested in the interdisciplinary studies of mechanics, electronics, and cybernetics. Please feel free to get in touch.
 
 ## Short Biography
 
-Bao Zhao is a tenure-track professor and PhD supervisor at Beijing Institute of Technology in Zhuhai. He leads the Lab of Autonomous Structures and Systems (LASS).  Before joining Beijing Institute of Technology, he was an RGC Junior Research Fellow and a Distinguished Postdoctoral Fellow at The Hong Kong Polytechnic University hosted by [Prof. Songye Zhu](https://www.zhusongye.com/). He received his PhD in Structural Mechanics from ETH Zürich supervised by [Prof. Eleni Chatzi](https://chatzi.ibk.ethz.ch/) and [Dr. Andrea Colombi](https://www.zhaw.ch/en/about-us/person/colo).
+Bao Zhao is a tenure-track professor and PhD supervisor at Beijing Institute of Technology in Zhuhai. He leads the Multifunctional Autonomous Structures and Systems (MASS) Lab.  Before joining Beijing Institute of Technology, he was an RGC Junior Research Fellow and a Distinguished Postdoctoral Fellow at The Hong Kong Polytechnic University hosted by [Prof. Songye Zhu](https://www.zhusongye.com/). He received his PhD in Structural Mechanics from ETH Zürich supervised by [Prof. Eleni Chatzi](https://chatzi.ibk.ethz.ch/) and [Dr. Andrea Colombi](https://www.zhaw.ch/en/about-us/person/colo).
 
 ## Research Interests
 

@@ -8,7 +8,7 @@ permalink: /research.html
 
 # Research
 
-LASS develops autonomous structural systems that integrate ambient energy harvesting, multiphysics dynamics, sensing, and control. Our research is organized around three closely connected directions, spanning power electronic interfaces, electromechanical dynamics, and smart structures and systems.
+MASS develops autonomous structural systems that integrate ambient energy harvesting, multiphysics dynamics, sensing, and control. Our research is organized around three closely connected directions, spanning power electronic interfaces, electromechanical dynamics, and smart structures and systems.
 
 ## Power Electronics Interface Circuits
 
