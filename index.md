@@ -14,7 +14,7 @@ permalink: /
 Tenure-track Professor  
 PhD Supervisor
 
-Marine Science and Technology Domain
+Marine Science and Technology Domain       
 Beijing Institute of Technology  
 **Email:** baozhao [at] bit.edu.cn / bao_zhao [at] outlook.com
 
