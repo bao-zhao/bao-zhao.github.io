@@ -31,7 +31,7 @@ Division of Marine Science & Technology
 
 - **Zesheng Guo**, Ph.D. Student (Fall 2026-)
 <div class="team-card">
-<img src="{{ '/assets/students/zesheng_guo.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
+<img src="{{ '/assets/students/zesheng_guo.png' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
 <div markdown="1">
 
 - **Binghuan Lei**, M.Eng. Student (Fall 2026-)
@@ -63,7 +63,7 @@ Division of Marine Science & Technology
 
 - **Jinyang Xie**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
-<img src="{{ '/assets/students/jinyang_xie.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
+<img src="{{ '/assets/students/jinyang_xie.png' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
 <div markdown="1">
 
 ### Visitors and Collaborators
