@@ -24,47 +24,74 @@ Division of Marine Science & Technology
 
 ### Lab Members
 
-- **Zhengming Liao**, Ph.D. Student (Fall 2026-)
-<div class="team-card">
-<img src="{{ '/assets/students/zhengming_liao.jpg' | relative_url }}" alt="Portrait of Zhengming Liao" width="400" height="400">
-<div markdown="1">
 
-- **Zesheng Guo**, Ph.D. Student (Fall 2026-)
-<div class="team-card">
-<img src="{{ '/assets/students/zesheng_guo.png' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
-<div markdown="1">
+<h2>Lab Members</h2>
 
-- **Binghuan Lei**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
-<img src="{{ '/assets/students/binghuan_lei.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
-<div markdown="1">
+  <img src="{{ '/assets/students/zhengming_liao.jpg' | relative_url }}" alt="Portrait of Zhengming Liao">
+  <div>
+    <strong>Zhengming Liao</strong><br>
+    Ph.D. Student (Fall 2026-)
+  </div>
+</div>
 
-- **Ang Li**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
-<img src="{{ '/assets/students/ang_li.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
-<div markdown="1">
-[[Link](https://github.com/ApheliosLu)]
+  <img src="{{ '/assets/students/zesheng_guo.png' | relative_url }}" alt="Portrait of Zesheng Guo">
+  <div>
+    <strong>Zesheng Guo</strong><br>
+    Ph.D. Student (Fall 2026-)
+  </div>
+</div>
 
-- **Ziqing Zhang**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
-<img src="{{ '/assets/students/ziqing_zhang.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
-<div markdown="1">
+  <img src="{{ '/assets/students/binghuan_lei.jpg' | relative_url }}" alt="Portrait of Binghuan Lei">
+  <div>
+    <strong>Binghuan Lei</strong><br>
+    M.Eng. Student (Fall 2026-)
+  </div>
+</div>
 
-- **Hanqing Liu**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
-<img src="{{ '/assets/students/hanqing_liu.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
-<div markdown="1">
+  <img src="{{ '/assets/students/ang_li.jpg' | relative_url }}" alt="Portrait of Ang Li">
+  <div>
+    <strong>Ang Li</strong><br>
+    M.Eng. Student (Fall 2026-)<br>
+    <a href="https://github.com/ApheliosLu" target="_blank">[Link]</a>
+  </div>
+</div>
 
-- **Junhong He**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
-<img src="{{ '/assets/students/junhong_he.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
-<div markdown="1">
-[[Link](https://junhong-he.github.io/)]
+  <img src="{{ '/assets/students/ziqing_zhang.jpg' | relative_url }}" alt="Portrait of Ziqing Zhang">
+  <div>
+    <strong>Ziqing Zhang</strong><br>
+    M.Eng. Student (Fall 2026-)
+  </div>
+</div>
 
-- **Jinyang Xie**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
-<img src="{{ '/assets/students/jinyang_xie.png' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
-<div markdown="1">
+  <img src="{{ '/assets/students/hanqing_liu.jpg' | relative_url }}" alt="Portrait of Hanqing Liu">
+  <div>
+    <strong>Hanqing Liu</strong><br>
+    M.Eng. Student (Fall 2026-)
+  </div>
+</div>
+
+<div class="team-card">
+  <img src="{{ '/assets/students/junhong_he.jpg' | relative_url }}" alt="Portrait of Junhong He">
+  <div>
+    <strong>Junhong He</strong><br>
+    M.Eng. Student (Fall 2026-)<br>
+    <a href="https://junhong-he.github.io/" target="_blank">[Link]</a>
+  </div>
+</div>
+
+<div class="team-card">
+  <img src="{{ '/assets/students/jinyang_xie.png' | relative_url }}" alt="Portrait of Jinyang Xie">
+  <div>
+    <strong>Jinyang Xie</strong><br>
+    M.Eng. Student (Fall 2026-)
+  </div>
+</div>
 
 ### Visitors and Collaborators
 

@@ -126,12 +126,18 @@ li { margin-bottom: .2rem; }
 .publication-list li { margin: 0 0 .8rem; padding-left: .15rem; }
 
 .team-card {
-  display: grid;
-  grid-template-columns: 165px minmax(0, 1fr);
-  gap: 1rem;
-  align-items: start;
+  display: flex;           /* 改为 flex 布局 */
+  flex-direction: column;  /* 垂直排列（图片在上，文字在下） */
+  align-items: center;     /* 水平居中对齐（可选，如果不想居中可改为 flex-start） */
+  margin-bottom: 2rem;     /* 卡片之间的垂直间距 */
+  text-align: center;      /* 文字居中（可选） */
 }
-.team-card img { width: 155px; }
+
+.team-card img {
+  width: 155px;            /* 保持你原有的图片宽度 */
+  margin-bottom: 0.8rem;   /* 图片和下方文字的间距 */
+  border-radius: 8px;      /* 可选：给图片加圆角，更美观 */
+}
 .team-card h2 { margin-top: 0; }
 .open-call { margin: 0 0 .8rem; padding: 0; border: 0; background: #fff; }
 .open-call h3 { color: #000080; }
