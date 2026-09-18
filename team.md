@@ -28,32 +28,39 @@ Division of Marine Science & Technology
 <div class="team-card">
 <img src="{{ '/assets/students/zhengming_liao.jpg' | relative_url }}" alt="Portrait of Zhengming Liao" width="400" height="400">
 <div markdown="1">
+
 - **Zesheng Guo**, Ph.D. Student (Fall 2026-)
 <div class="team-card">
 <img src="{{ '/assets/students/zesheng_guo.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
 <div markdown="1">
+
 - **Binghuan Lei**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
 <img src="{{ '/assets/students/binghuan_lei.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
 <div markdown="1">
+
 - **Ang Li**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
 <img src="{{ '/assets/students/ang_li.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
 <div markdown="1">
 [[Link](https://github.com/ApheliosLu)]
+
 - **Ziqing Zhang**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
 <img src="{{ '/assets/students/ziqing_zhang.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
 <div markdown="1">
+
 - **Hanqing Liu**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
 <img src="{{ '/assets/students/hanqing_liu.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
 <div markdown="1">
+
 - **Junhong He**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
 <img src="{{ '/assets/students/junhong_he.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
 <div markdown="1">
 [[Link](https://junhong-he.github.io/)]
+
 - **Jinyang Xie**, M.Eng. Student (Fall 2026-)
 <div class="team-card">
 <img src="{{ '/assets/students/jinyang_xie.jpg' | relative_url }}" alt="Portrait of Zesheng Guo" width="400" height="400">
