@@ -129,7 +129,7 @@ li { margin-bottom: .2rem; }
   display: flex;           /* 改为 flex 布局 */
   flex-direction: column;  /* 垂直排列（图片在上，文字在下） */
   align-items: center;     /* 水平居中对齐（可选，如果不想居中可改为 flex-start） */
-  margin-bottom: 10rem;     /* 卡片之间的垂直间距 */
+  margin-bottom: 2rem;     /* 卡片之间的垂直间距 */
   text-align: center;      /* 文字居中（可选） */
 }
 
